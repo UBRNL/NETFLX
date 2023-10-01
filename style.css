@@ -1,0 +1,36 @@
+.container-netflix {
+    color: rgb(232, 6, 6);
+    font-size: 95px;
+    font-weight: 700;
+}
+.container-texto {
+    color: rgb(232, 6, 6);
+}
+.container-input {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.container-input input {
+    padding: 10px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+button {
+    background-color: rgb(231, 6, 6);
+}
+
+
+@media (min-width: 576px) {}
+
+@media (min-width: 768px) { }
+
+@media (min-width: 992px) { }
+
+@media (min-width: 1200px) {}
+
+@media (min-width: 1400px) { }
