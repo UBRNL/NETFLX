@@ -9,7 +9,7 @@ function registrar() {
     localStorage.setItem("email", email);
     localStorage.setItem("contraseña", contraseña);
 
-    if (nombre === "" || email === "" || contraseña === "") {
+    if (nombre === '' || email === '' || contraseña === '') {
         alert("Todos los campos deben de estar llenos!");
         return;
     }
